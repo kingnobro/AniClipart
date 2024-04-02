@@ -1,0 +1,58 @@
+[
+  {
+    "path_index": [
+      19,
+      18,
+      3,
+      2,
+      1
+    ],
+    "layer": "layer_0",
+    "control_index": [3, 5, 7]
+  },
+  {
+    "path_index": [
+      23,
+      22,
+      21,
+      20
+    ],
+    "layer": "layer_1",
+    "control_index": [2, 4, 6]
+  },
+  {
+    "path_index": [
+      17,
+      16,
+      15,
+      14,
+      13,
+      12,
+      11,
+      10,
+      9,
+      8,
+      7
+    ],
+    "layer": "layer_2",
+    "control_index": [1, 2, 3, 8, 9]
+  },
+  {
+    "path_index": [
+      6,
+      5,
+      4
+    ],
+    "layer": "layer_3",
+    "control_index": [9, 11, 13]
+  },
+  {
+    "path_index": [
+      26,
+      25,
+      24
+    ],
+    "layer": "layer_4",
+    "control_index": [8, 10, 12]
+  }
+]

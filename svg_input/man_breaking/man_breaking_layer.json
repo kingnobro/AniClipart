@@ -1,0 +1,37 @@
+[
+  {
+    "path_index": [
+      17,
+      16,
+      15,
+      14,
+      13,
+      9,
+      8,
+      7,
+      6,
+      5,
+      4,
+      3
+    ],
+    "layer": "layer_0",
+    "control_index": [1, 2, 3, 4, 5, 8, 10, 12]
+  },
+  {
+    "path_index": [
+      1,
+      2
+    ],
+    "layer": "layer_1",
+    "control_index": [3, 6]
+  },
+  {
+    "path_index": [
+      12,
+      11,
+      10
+    ],
+    "layer": "layer_2",
+    "control_index": [7, 9, 11]
+  }
+]

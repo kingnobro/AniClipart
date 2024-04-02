@@ -1,0 +1,2 @@
+- `arap_util.py`: add batch channel to speed up
+- `arap_util_no_batch.py`: original ARAP, only supports one sample
